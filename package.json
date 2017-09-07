@@ -1,0 +1,19 @@
+{
+  "name": "project-math-api",
+  "version": "0.0.1",
+  "description": "Cree une api en mathématique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djaafarcode/project-math-api.git"
+  },
+  "author": "D. BOUMAZA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djaafarcode/project-math-api/issues"
+  },
+  "homepage": "https://github.com/djaafarcode/project-math-api#readme"
+}
